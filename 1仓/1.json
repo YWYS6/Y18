@@ -255,7 +255,7 @@
 {"key":"亚洲成人在线","name": "亚洲成人在线","api": "https://www.caiji01.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":162},
 {"key":"99资源","name": "99资源","api": "http://99zy.pw/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":163},
 {"key":"水蜜桃","name": "水蜜桃","api": "https://smt999.cc/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":164}
-]]},
+]，
   "lives": [
     {
       "name": "影视",
